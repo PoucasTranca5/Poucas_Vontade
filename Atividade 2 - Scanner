@@ -1,0 +1,28 @@
+
+
+Para resolver foi adicionado mais dois System.out.println, pois com um só deixava 2 scanner sem funcionalidade por conta que puxava informação de um. Segue o código certo a baixo:
+
+import java.util.Scanner;
+
+class HelloWorld {
+    public static void main(String[] args) {
+        
+        String nome = "";
+        int idade = 0;
+        double peso = 0.0;
+        
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.println("Informe seu nome:  ");
+        nome = scanner.nextLine();
+        System.out.println("Sua idade:");
+         idade = scanner.nextInt();
+        System.out.println("Seu peso:");
+        peso = scanner.nextDouble();
+        scanner.close();
+        
+        System.out.println("Nome "+ nome);
+        System.out.println("idade "+ idade);
+        System.out.println("peso "+ peso);
+    }
+}
