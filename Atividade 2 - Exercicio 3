@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class DadosAluno {
+    public static void main(String[] args) {
+    
+        Scanner scanner = new Scanner(System.in);
+    
+    double Valor1;
+    double Valor2;
+    double mediaFinal;
+    
+        System.out.print("Valor 1: ");
+        Valor1 = scanner.nextDouble();
+        System.out.print("Valor 2: ");
+        Valor2 = scanner.nextDouble();
+        mediaFinal = (Valor1 + Valor2) / 2;
+        System.out.println("Media Final: " + mediaFinal);
+        scanner.close();
+    }
+}
