@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class FazerMedia {
+    public static void main(String[] args){
+
+        Scanner subtrai = new Scanner (System.in);
+
+        System.out.print("Informe o primeiro valor: ");
+        int N1 = subtrai.nextInt();
+        System.out.print("Informe o segundo valor: ");
+        int N2 = subtrai.nextInt();
+        
+        
+
+        subtrai.close();
+        System.out.println("O valor e: " + (N1-N2) );
+
+    }
+}
