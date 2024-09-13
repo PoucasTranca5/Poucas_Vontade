@@ -7,13 +7,13 @@ public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     System.out.print("Digite o dia do seu nascimento: ");
     nasdia = scanner.nextInt();
-System.out.print("Digite o mês do seu nascimento: ");
+System.out.print("Digite o mes do seu nascimento: ");
 nasmes = scanner.nextInt();
 System.out.print("Digite o ano do seu nascimento: ");
 nasano = scanner.nextInt();
 System.out.print("Informe o dia de Hoje: ");
 dia = scanner.nextInt();
-System.out.print("Informe o mês: ");
+System.out.print("Informe o mes: ");
 mes = scanner.nextInt();
 System.out.print("Informe o ano: ");
 ano = scanner.nextInt();
