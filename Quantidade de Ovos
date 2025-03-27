@@ -1,0 +1,9 @@
+quant_ovos = int(input("Quantidade de ovos :"))
+quant_caixas = int(input("Quantidade de caixas:"))
+quant_ovos = quant_ovos - (quant_ovos * 2/100)
+caixas_necessarias = quant_ovos/12
+
+if (quant_caixas >= caixas_necessarias):
+    print ("Caixas suficientes.")
+else:
+    print("Caixas insuficientes.")
