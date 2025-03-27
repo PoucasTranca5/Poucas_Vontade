@@ -1,0 +1,5 @@
+quant_pessoas = int(input("Quantidade de pessoas:")
+peso_total = int(input("Peso Total:")
+
+if quant_pessoas > 3 or peso_total > 300
+   print("Capacidade máxima atingida.")
