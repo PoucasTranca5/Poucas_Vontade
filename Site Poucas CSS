@@ -1,0 +1,67 @@
+/* estilo.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-image: linear-gradient(to top, #cd240b, #c9200a, #c61b09, #c21709, #bf1108, #bf0e08, #c00b07, #c00707, #c40707, #c80606, #cd0606, #d10505);
+  background-attachment: fixed;
+  background-size: cover;
+  color: #ffffff;
+}
+
+header {
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 30px 20px;
+  text-align: center;
+  border-bottom: 3px solid #ff2e2e;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 3em;
+  color: #ff2e2e;
+  text-shadow: 2px 2px 8px #000;
+}
+
+header p {
+  font-size: 1.2em;
+  color: #f3a3a3;
+}
+
+section {
+  padding: 30px 20px;
+  max-width: 900px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  border-radius: 12px;
+  margin-top: 20px;
+  box-shadow: 0 0 20px #bf1108;
+}
+
+h2 {
+  color: #ff4d4d;
+  text-shadow: 1px 1px 6px #000;
+}
+
+a {
+  color: #ffb3b3;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: #ffffff;
+  text-shadow: 0 0 5px #ff4d4d;
+}
+
+footer {
+  background-color: rgba(0, 0, 0, 0.9);
+  text-align: center;
+  padding: 15px;
+  font-size: 0.9em;
+  color: #bbb;
+  margin-top: 40px;
+  border-top: 2px solid #bf1108;
+}
+
+  
