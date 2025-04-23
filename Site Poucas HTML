@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PoucasTranca5</title>
+  <link rel="stylesheet" href="Poucas.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="icon" href="GuaxinimGamer.jpg" type="image/png">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #640303;
+      color: #f0f0f0;
+    }
+
+    header {
+      background-color: #4e0303;
+      text-align: center;
+      padding: 0;
+    }
+
+    .banner {
+      width: 100%;
+      max-height: 300px;
+      object-fit: cover;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+      padding: 15px 0;
+    }
+
+    .profile-img {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 4px solid #ff4d4d;
+      margin-top: -75px;
+      background-color: #000;
+    }
+
+    section {
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .social a {
+      color: #ffffff;
+      margin-right: 20px;
+      font-size: 1.2em;
+      text-decoration: none;
+    }
+
+    .social a i {
+      margin-right: 8px;
+    }
+
+    .social a:hover {
+      color: #ffb3b3;
+    }
+
+    footer {
+      background-color: #1f1f1f;
+      text-align: center;
+      padding: 10px;
+      font-size: 0.9em;
+      margin-top: 30px;
+    }
+
+    .centered {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <!-- Banner do canal -->
+    <img class="banner" src="banner.jpg" alt="Banner do canal PoucasTranca5">
+    
+    
+
+    <!-- Imagem de perfil -->
+    <div class="centered">
+      <img class="profile-img" src="Logo.png" alt="Imagem de perfil PoucasTranca5">
+    </div>
+    <h1>PoucasTranca5</h1>
+    
+  </header>
+
+  <section>
+    <h2>Sobre</h2>
+    <p>Salve! Eu sou o Gabriel, também conhecido como PoucasTranca5. Faço lives de terça a domingo às 20h, trazendo gameplay, reacts e aquele entretenimento brabo. Cola com nós!</p>
+  </section>
+
+  <section class="social">
+    <h2>Me siga nas redes!</h2>
+    <p>
+      <a href="https://twitch.tv/poucastranca5" target="_blank"><i class="fab fa-twitch"></i> Twitch</a>
+      <a href="https://tiktok.com/@poucastranca5" target="_blank"><i class="fab fa-tiktok"></i> TikTok</a>
+      <a href="https://instagram.com/poucastranca5" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      <a href="https://youtube.com/@poucastranca5" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
+    </p>
+  </section>
+
+  <footer>
+    © 2025 PoucasTranca5 - Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
