@@ -82,7 +82,7 @@
 
   <header>
     <!-- Banner do canal -->
-    <img class="banner" src="banner.jpg" alt="Banner do canal PoucasTranca5">
+    <img class="banner" src="banner.png" alt="Banner do canal PoucasTranca5">
     
     
 
@@ -96,16 +96,18 @@
 
   <section>
     <h2>Sobre</h2>
-    <p>Salve! Eu sou o Gabriel, também conhecido como PoucasTranca5. Faço lives de terça a domingo às 20h, trazendo gameplay, reacts e aquele entretenimento brabo. Cola com nós!</p>
+    <p>POOUCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS, É OS GURI DO PARANÁ NÃO ADIANTA</p>
   </section>
 
   <section class="social">
-    <h2>Me siga nas redes!</h2>
+    <h2>PORÃO DO POUCAS</h2>
     <p>
       <a href="https://twitch.tv/poucastranca5" target="_blank"><i class="fab fa-twitch"></i> Twitch</a>
-      <a href="https://tiktok.com/@poucastranca5" target="_blank"><i class="fab fa-tiktok"></i> TikTok</a>
-      <a href="https://instagram.com/poucastranca5" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      <a href="https://www.instagram.com/poucastranca5/?next=%2F" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      <a href="https://www.tiktok.com/@poucastranca" target="_blank"><i class="fab fa-tiktok"></i> TikTok</a>
       <a href="https://youtube.com/@poucastranca5" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
+       <img src="roblox.png" alt="Roblox" width="20" style="vertical-align: middle; margin-right: 4px;">
+      <a href="https://www.roblox.com/pt/users/508254194/profile" target="_blank"></i> Roblox</a>
     </p>
   </section>
 
